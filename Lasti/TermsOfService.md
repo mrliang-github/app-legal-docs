@@ -1,6 +1,6 @@
 # Lasti Terms of Service / 服务条款
 
-**Last Updated / 最后更新**: December 26, 2025
+**Last Updated / 最后更新**: August 10, 2026
 
 ---
 
@@ -38,18 +38,21 @@ Lasti is a lightweight life event tracking application that helps you record and
 #### 5.1 Free Version
 The free version of Lasti allows you to create up to 6 events with full functionality.
 
-#### 5.2 Premium Subscription
-Premium unlocks unlimited events. Subscription options include:
+#### 5.2 Lasti Pro Options
+Lasti Pro unlocks unlimited events. Depending on availability in your App Store storefront, purchase options may include:
 
-- **Monthly Subscription**: ¥8 / $1.99 per month
-- **Annual Subscription**: ¥49 / $19.99 per year
-- **Lifetime Purchase**: ¥89 / $39.99 one-time payment
+- **Monthly Subscription**: an auto-renewable monthly subscription
+- **Annual Subscription**: an auto-renewable annual subscription
+- **Lifetime Purchase**: a one-time, non-consumable purchase that does not renew
+
+Prices vary by country or region and may change. The current localized price and billing period are displayed in the App and on Apple's purchase confirmation sheet before you confirm a purchase.
 
 #### 5.3 Payment Terms
 - Payment will be charged to your Apple ID account at confirmation of purchase
-- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
-- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- Auto-renewable subscriptions renew unless cancelled at least 24 hours before the end of the current period
+- Your Apple ID account will be charged for subscription renewal within 24 hours before the end of the current period
 - You can manage and cancel subscriptions in your Apple ID Account Settings
+- A Lifetime Purchase is charged once and does not automatically renew
 
 #### 5.4 Refunds
 All purchases are processed through Apple's App Store. Refund requests must be made through Apple according to their refund policy.
@@ -140,18 +143,21 @@ Lasti 是一款轻量级生活事件追踪应用，帮助您记录和追踪上�
 #### 5.1 免费版
 Lasti 免费版允许您创建最多 6 个事件，功能完整。
 
-#### 5.2 高级订阅
-高级版解锁无限事件。订阅选项包括：
+#### 5.2 Lasti Pro 购买选项
+Lasti Pro 解锁无限事件。根据您所在 App Store 地区的实际供应情况，购买选项可能包括：
 
-- **月度订阅**：每月 ¥8 / $1.99
-- **年度订阅**：每年 ¥49 / $19.99
-- **永久购买**：一次性支付 ¥89 / $39.99
+- **月度订阅**：按月自动续订
+- **年度订阅**：按年自动续订
+- **永久购买**：一次性购买，不会自动续订
+
+价格可能因国家或地区而异，也可能发生调整。确认购买前，应用内和 Apple 购买确认页面会显示当前本地价格与计费周期。
 
 #### 5.3 付款条款
 - 确认购买后，将从您的 Apple ID 账户扣款
-- 除非在当前周期结束前至少 24 小时取消，否则订阅将自动续订
-- 您的账户将在当前周期结束前 24 小时内被扣除续订费用
+- 除非在当前周期结束前至少 24 小时取消，否则自动续订订阅将继续续订
+- 您的 Apple ID 账户将在当前周期结束前 24 小时内被扣除订阅续费费用
 - 您可以在 Apple ID 账户设置中管理和取消订阅
+- 永久购买仅收取一次费用，不会自动续订
 
 #### 5.4 退款
 所有购买均通过 Apple App Store 处理。退款请求必须根据 Apple 的退款政策向 Apple 提出。
@@ -208,4 +214,4 @@ Lasti 免费版允许您创建最多 6 个事件，功能完整。
 
 ---
 
-© 2025 Lasti. All rights reserved.
+© 2026 Lasti. All rights reserved.
